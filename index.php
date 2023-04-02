@@ -114,7 +114,7 @@ switch ($_GET['r']) {
         </div>
       </div>
     </div>
-  </section><!-- End About Section -->
+  </section><!-- End About Sections -->
 
   <section id="adm" class="adm">
     <div class="container" data-aos="fade-up">
